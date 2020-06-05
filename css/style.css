@@ -1,0 +1,121 @@
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
+
+body {
+  padding: 0 30px;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Georgia", serif;
+  color: #222222;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: normal;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: normal;
+}
+h3 { 
+font-size: 25px;
+  line-height: normal;
+}
+h4 { 
+font-size: 17px;
+  line-height: normal;
+}
+
+nav {
+  color: #888888;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+aside {
+  margin: 20px 0;
+  color: #151719;
+}
+
+pre,
+code {
+  font-size: 16px;
+  font-family: "Courier New", "Courier", monospace;
+  color: #000000;
+}#
+
+pre {
+  line-height: normal;
+}
+
+blockquote {
+  padding-left: 14px;
+  border-left: 2px solid #000000;
+
+  color: #6a2cce;
+}
+
+cite {
+  color: #222222;
+}
+
+time {
+  color: #6a2cce;
+  
+}
+
+
+
+
+/* .danger-text {
+  color: #ff4400;
+}
+
+.danger-block {
+  padding: 5px 10px;
+  background-color: #ffd0bf;
+}
+
+.no-danger-block {
+  padding: 5px 10px;
+  background-color: #40e0d0;
+} */
+
+footer {
+  margin-top: 30px;
+}
+
+warning {
+font-size: 17px;	
+color: red
+}
+new {
+font-size: 20px;	
+color: red
+}
+.wiget {
+	text-align: right;
+}
+.partnership {
+  margin: 30px 0;
+  padding: 30px;
+  text-transform: uppercase;
+}
+
+.skills-level {
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4470c4;
+  
+  
+  
+ 
