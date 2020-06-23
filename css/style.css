@@ -116,47 +116,7 @@ color: red
   color: #ffffff;
   background-color: #4470c4;
   
-  
-#cookie_notification{
-  display: none;
-  justify-content: space-between;
-  align-items: flex-end;
-  position: fixed;
-  bottom: 15px;
-  left: 50%;
-  width: 900px;
-  max-width: 90%;
-  transform: translateX(-50%);
-  padding: 25px;
-  background-color: white;
-  border-radius: 4px;
-  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.4);
+  warning2 {
+font-size: 10px;	
+color: black
 }
-
-#cookie_notification p{
-  margin: 0;
-  font-size: 0.7rem;
-  text-align: left;
-  color: $color_text;
-}
-
-
-@media (min-width: 576px){
-  #cookie_notification.show{
-    display: flex;
-  }
-  .cookie_accept{
-    margin: 0 0 0 25px;
-  }
-}
-
-@media (max-width: 575px){
-  #cookie_notification.show{
-    display: block;
-    text-align: left;
-  }
-  .cookie_accept{
-    margin: 10px 0 0 0;
-  }
-}  
- 
